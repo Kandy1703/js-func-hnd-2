@@ -1,0 +1,18 @@
+body{
+    background-color: darkmagenta;
+}
+
+h2{
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-size: 40px;
+    text-decoration: underline;
+}
+p{
+    font-size: 20px;
+    font-style: italic;  
+}
+pre{
+    font-size: 20px;
+}
